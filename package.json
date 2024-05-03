@@ -1,10 +1,9 @@
 {
-  "homepage": "https://iamsynthetic.github.io/deathongokumonisland",
   "name": "vite-template-solid",
   "version": "0.0.0",
   "description": "",
   "scripts": {
-    "start": "vite",
+    "start": "npx http-server ./dist",
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",

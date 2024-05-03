@@ -145,7 +145,7 @@ const Section1: Component = () => {
       setSectionToShow(".section2");
     }
   };
-
+  //
   return (
     <>
       <div class="detective w-[800px] h-[800px] mt-[-200px] opacity-0">

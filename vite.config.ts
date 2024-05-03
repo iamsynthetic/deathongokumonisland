@@ -11,7 +11,6 @@ export default defineConfig({
     // devtools(),
     solidPlugin(),
   ],
-  base: "https://iamsynthetic.github.io/deathongokumonisland/",
   server: {
     port: 3000,
   },

@@ -29,7 +29,7 @@ const Home: Component = () => {
     console.log("sectiontoshow is: " + sectionToShow());
     setCurrentSection(sectionToShow());
   });
-  //return statements
+  //return statements again
   return (
     <div
       ref={allsectionsref}
